@@ -1,6 +1,6 @@
 <html>  
 <body>  
-		<h1>It will take me less than a minute to pluck those double XL running noses!</h1>
+		<h1>HELLO, WELCOME TO SKR'S WORLD</h1>
 </body>  
 </html>  
 
